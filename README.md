@@ -26,6 +26,8 @@ pytest
 
 ## Автор
 
+Mardarus
+
 Kodland
 
 Juli
