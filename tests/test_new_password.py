@@ -11,3 +11,7 @@ def test_password_characters():
 def test():
     password = generate_password(15)
     assert len(password) == 15
+
+def test1():
+    password = generate_password(1000)
+    assert len(password) != 0
